@@ -1,2 +1,2 @@
-# Javeando---Exerc-cios-de-Java
+# Javeando - Exercícios de Java
 Coleção de exercícios em Java para treinar, errar, aprender e evoluir na programação.
